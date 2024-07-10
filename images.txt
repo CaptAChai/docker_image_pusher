@@ -10,3 +10,4 @@ hicasper/qd-today
 a76yyyy/qiandao
 b3log/siyuan
 dreamacro/clash
+haishanh/yacd
