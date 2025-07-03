@@ -8,4 +8,4 @@ a76yyyy/qiandao
 b3log/siyuan
 dreamacro/clash
 haishanh/yacd
-docker pull ghcr.io/metatube-community/metatube-server:dev
+ghcr.io/metatube-community/metatube-server:dev
