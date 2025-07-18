@@ -10,3 +10,4 @@ dreamacro/clash
 haishanh/yacd
 ghcr.io/metatube-community/metatube-server:dev
 alexta69/metube
+ikarosrun/ikaros
